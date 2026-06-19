@@ -9,8 +9,8 @@ users a P2 license in Entra ID.<br />
 <h2>Operating Systems Used </h2>
 - Windows 11
 <h2>Assigned Licenses</h2>
-<p>
-<img width="1404" height="709" alt="image" src="https://github.com/userattachments/assets/b56dd5be-9d99-455c-971b-87b868587458" />
+
+![image alt](https://github.com/keemziatapex/P2-Licensing/blob/5c577a2453f8842a6b96b82d624a2e589a7a29f2/Screenshot%202026-06-19%20022755.png)
 </p>
 <p>
 Assigned P2 license to user Khairat Abijo.
