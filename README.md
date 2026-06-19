@@ -2,7 +2,7 @@
 ![image alt](https://github.com/keemziatapex/P2-Licensing/blob/a718e50ce993feaceb82d11764bb2c68827cd609/Screenshot%202026-06-19%20022435.png)
 </p>
 <h1>Fully Provisioning Accounts with P2 Licenses for Users (Azure)</h1>
-This tutorial outlines the process of fully provisioning user accounts, assigning created
+This project outlines the process of fully provisioning user accounts, assigning created
 users a P2 license in Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
