@@ -16,8 +16,8 @@ users a P2 license in Entra ID.<br />
 Assigned P2 license to user Khairat Abijo.
 </p>
 <br />
-<p>
-<img width="1441" height="735" alt="image" src="https://github.com/userattachments/assets/39cc0299-8264-4329-abe8-4323398beba4" />
+
+![image alt](https://github.com/keemziatapex/P2-Licensing/blob/eaacdb170fd18e5813c2f72e17f2a6600d388c45/Screenshot%202026-06-19%20022651.png)
 </p>
 <p>
 Assigned P2 license to user Fausat Bolaji.
