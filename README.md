@@ -1,5 +1,5 @@
 # Cloud Provisioning - P2 Licensing in Microsoft Azure's Entra ID <p align="center">
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+![image alt](https://github.com/keemziatapex/P2-Licensing/blob/a718e50ce993feaceb82d11764bb2c68827cd609/Screenshot%202026-06-19%20022435.png)
 </p>
 <h1>Fully Provisioning Accounts with P2 Licenses for Users (Azure)</h1>
 This tutorial outlines the process of fully provisioning user accounts, assigning created
